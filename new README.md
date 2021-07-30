@@ -6,3 +6,6 @@ Belajar pembuatan repository
 - Belajar Prinsip Pemrograman SOLID
 - Memulai Pemrograman Dengan Kotlin
 - Belajar Aplikasi Android Pemula
+- Belajar Fundamental Android Developer
+- Belajar Jetpack Pro
+- Menjadi Android Developer Expert
